@@ -5,7 +5,6 @@
 * [Práctica 3](https://github.com/maikeltoledo/swap_2018/tree/master/practica3)
 * [Práctica 4](https://github.com/maikeltoledo/swap_2018/tree/master/practica4)
 * [Práctica 5](#)
-* [Ejercicios de Clase](#)
 
 ## Ejercicios de clase
 * [Tema 2](#)
