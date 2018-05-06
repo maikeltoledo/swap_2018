@@ -125,9 +125,13 @@ Ya tenemos nuestro certificado instalado y se encuentra en:
 ```
 #### Crear el sitio
 Creamos nuestro sitio en `sites-available` donde le decimos donde se encuentran los certificados:
+
 ![Imgur](https://i.imgur.com/nOK65zk.jpg)
+
 También es necesario cambiar el fichero de configuración de hosts del sistema, añadiendo a toledoaguilera.ddns.net:
+
 ![Imgur](https://i.imgur.com/TAanzI9.jpg)
+
 Ahora habilitamos el ssl y nuestro sitio:
 ```bash
 sudo a2enmod ssl
