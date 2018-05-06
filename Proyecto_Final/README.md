@@ -166,10 +166,13 @@ sudo systemctl start nginx
 ```
 ### Balanceo de carga usando nginx
 Modificamos el fichero de configuración `/etc/nginx/conf.d/default.conf`
+
 ![Imgur](https://i.imgur.com/KZKxrL1.jpg)
 
 Guardamos los cambios y procedemos a modificar el fichero de configuración nginx.conf `/etc/nginx/nginx.conf` y comentamos la línea donde include sites-enabled puesto que solo vamos a utilizar nginx de balanceador:
+
 ![Imgur](https://i.imgur.com/AhaoFNS.jpg)
+
 Una vez hecho estos cambios, reiniciamos el servicio:
 ```bash
 service nginx restart;
