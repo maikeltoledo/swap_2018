@@ -241,6 +241,8 @@ Usamos el comando **netstat –a** en nuestro servidor:
 
 ![Imgur](https://i.imgur.com/nKKSKtL.jpg)
 
+**Ejercicio T6.3**: Buscar información acerca de los tipos de ataques más comunes en servidores web, en qué consisten, y cómo se pueden evitar.
+
 - **Ataque DoS:** En un ataque de denegación de servicio (DoS), un atacante intenta evitar la legitimidad de que los usuarios accedan a información o a los servicios. El tipo más común y obvio de ataque DoS ocurre cuando un atacante "inunda" una red con información.
 
 - **Ping Flood:** se basa en enviar a la víctima una cantidad abrumadora de paquetes ping, usualmente usando el comando "ping" de UNIX como hosts. Es muy simple de lanzar, el requisito principal es tener acceso a un ancho de banda mayor que la víctima.
