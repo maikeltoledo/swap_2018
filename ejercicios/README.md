@@ -227,7 +227,9 @@ Para monitorizar el número de conexiones por segundo, debemos de activar la opc
 **Ejercicio T6.1**: Aplicar con iptables una política de denegar todo el tráfico en una de las máquinas de prácticas. Comprobar el funcionamiento.
 ```
 sudo iptables -A INPUT -j DROP
+```
 listamos las reglas:
+```
 sudo iptables
 ```
 
