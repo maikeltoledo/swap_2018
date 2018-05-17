@@ -21,7 +21,6 @@ _Total_ = 99,949375% \* 99,99% \* 100% \* 99,999984% \* 99,949375% \* 99,999999%
 99,999999% \* 99,999375% = 99,8881435%
 
 **Ejercicio T2.2**: Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. Como ejemplo, examina PM2: https://github.com/Unitech/pm2 que sirve para administrar clústeres de NodeJS.
-<![endif]-->
 
 [**Angular.js**](https://angularjs.org/): Un framework basado en _JavaScript_
 
@@ -64,7 +63,6 @@ He encontrado las siguientes:
 - apache benchmark
 
 - Selenium
-<![endif]-->
 
 **Ejercicio T2.4**: Buscar diferentes tipos de productos:
 
@@ -213,7 +211,6 @@ Para monitorizar el número de conexiones por segundo, debemos de activar la opc
 
 ![Imgur](https://i.imgur.com/SsZATxZ.jpg)
 
-<![endif]-->
 
 **Ejercicio 5.3**: Buscar información sobre herramientas para monitorizar las prestaciones de un servidor.
 
@@ -224,7 +221,6 @@ Para monitorizar el número de conexiones por segundo, debemos de activar la opc
 - Munin: Es una herramienta multiplataforma basada en web, utilizada en el monitoreo de los recursos en red. Está diseñada para ser plug and play. Su arquitectura es bastante sencilla: un servidor que centraliza los datos enviados por los agentes instalados en cada cliente. Permite monitorizar muchos parámetros y visualizarlos en cómodas gráficas.
 
 - Zabbix: es un sistema para monitorear la capacidad, el rendimiento y la disponibilidad de los servidores, equipos, aplicaciones y bases de datos. Además ofrece características avanzadas de monitoreo, alertas y visualización, que incluso, algunas de las mejores aplicaciones comerciales de este tipo no ofrecen.
-<![endif]-->
 
 ## TEMA 6: Asegurar el sistema web
 
