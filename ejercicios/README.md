@@ -110,7 +110,6 @@ He encontrado las siguientes:
 - **Windows 10:** Buscamos Firewall de Windows defender y nos llevará automáticamente al menú principal del cortafuegos. Si pinchamos en configuración avanzada podemos crear reglas de entrada / salida a nuestro server.
 
 - **Linux:** se hace con iptables, en la actualidad, se usa también el entorno grafico GUFW, que da mayor facilidad a la hora de definir reglas.
-<![endif]-->
 
 ## TEMA 4: Balanceo de carga
 
