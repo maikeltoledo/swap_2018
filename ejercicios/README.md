@@ -4,6 +4,7 @@ Ejercicios de cada uno de los temas de teoría vistos en clase.
 
 ## Tema 2: Alta disponibiliad y escalabilidad
 **Ejercicio T2.1**: Calcular la disponibilidad del sistema descrito en edgeblog.net si en cada subsistema tenemos en total 3 elementos.
+
 | Componet     | Dos replicas |  Calculos nuevos                         | Tres replicas |
 |--------------| ------------ | ---------------------------------------- | ------------- |
 | Web          | 97,75%       | 97,75% + (1 – 97,75%) * 97,75%           | 99,949375%    |
@@ -53,7 +54,6 @@ _Total_ = 99,949375% \* 99,99% \* 100% \* 99,999984% \* 99,949375% \* 99,999999%
 
 - **PM2 Runtime**: es un administrador en tiempo de ejecución de servidores NodeJS. Entre sus funciones se encuentran la de gestión de procesos, reinicios y ejecución de script en el sistema, etc.
 
-<![endif]-->
 
 **Ejercicio T2.3**: ¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas.
 
