@@ -7,7 +7,7 @@
 * [Práctica 5](https://github.com/maikeltoledo/swap_2018/tree/master/practica5)
 
 ## Ejercicios de clase
-* [Tema 2](#)
+* [Ejercicios](https://github.com/maikeltoledo/swap_2018/tree/master/ejercicios)
 
 ## Proyecto SWAP
 * [Granja web real con Raspberry Pi](https://github.com/maikeltoledo/swap_2018/tree/master/Proyecto_Final)
